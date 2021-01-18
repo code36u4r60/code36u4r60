@@ -5,17 +5,19 @@
 <!-- Cards -->
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code36u4r60&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code36u4r60&layout=compact&theme=dracula&title_color=dc9202" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=code36u4r60&count_private=true&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=code36u4r60&count_private=true&show_icons=true&theme=dracula&title_color=dc9202" />
   </a>
 </div>
 
 ### :books: Learning 
 
-![reactjs](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=for-the-badge)
-![native](https://img.shields.io/badge/-React%20Native-blue?logo=React&logoColor=white&style=for-the-badge)
+![nodejs](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
+![react](https://img.shields.io/badge/-React-44dafb?logo=React&logoColor=white&style=for-the-badge)
+![reactnative](https://img.shields.io/badge/-React%20Native-44dafb?logo=React&logoColor=white&style=for-the-badge)
+
 
 ### :speech_balloon: Social
 
