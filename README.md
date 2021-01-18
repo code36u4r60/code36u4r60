@@ -7,11 +7,13 @@ I ❤️ solve problems.
 
 I don't like to repeat the same things over and over.😧
 
+<!--
 ### :books: Learning 
 
 ![nodejs](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![react](https://img.shields.io/badge/-React-44dafb?logo=React&logoColor=white&style=for-the-badge)
 ![reactnative](https://img.shields.io/badge/-React%20Native-44dafb?logo=React&logoColor=white&style=for-the-badge)
+--> 
 
 ### Here are some ideas to get you started:
 
