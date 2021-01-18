@@ -15,7 +15,7 @@ I don't like to repeat the same things over and over.😧
 ![reactnative](https://img.shields.io/badge/-React%20Native-44dafb?logo=React&logoColor=white&style=for-the-badge)
 --> 
 
-### Here are some ideas to get you started:
+### About me:
 
 - 🔭 I'm currently unemployed
 - 🎓 I'm in the 3rd year of Electrotechnical and Computer Engineering
@@ -25,7 +25,7 @@ I don't like to repeat the same things over and over.😧
 - 💬 Ask me about anything, but know that I am passionate about technology
 
 <!--Social-->
-### :speech_balloon: Social
+### Social
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/code36u4r60)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoqueiros/)
@@ -33,7 +33,7 @@ I don't like to repeat the same things over and over.😧
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/code36u4r60/)
 
 <!-- Cards -->
-### :chart_with_upwards_trend: GitHub Stats
+### GitHub Stats
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
