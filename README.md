@@ -12,11 +12,16 @@
   </a>
 </div>
 
-  
+### :books: Learning 
 
-### Contact me
-[![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/code36u4r60)](https://github.com/code36u4r60)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoqueiros/)](https://www.linkedin.com/in/eduardoqueiros/)
+![reactjs](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=for-the-badge)
+![native](https://img.shields.io/badge/-React%20Native-blue?logo=React&logoColor=white&style=for-the-badge)
+
+### :speech_balloon: Social
+
+<a href="https://github.com/code36u4r60" target="_blank">![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/eduardoqueiros/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)</a>
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/code36u4r60/)](https://www.instagram.com/code36u4r60/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/code36u4r60/)](https://www.facebook.com/code36u4r60/)
 
