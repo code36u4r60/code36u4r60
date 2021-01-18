@@ -22,8 +22,9 @@
 <a href="https://github.com/code36u4r60" target="_blank">![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/eduardoqueiros/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)</a>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/code36u4r60/)](https://www.instagram.com/code36u4r60/){:target="_blank"}
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/code36u4r60/)](https://www.facebook.com/code36u4r60/){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/code36u4r60/)](https://www.instagram.com/code36u4r60/){:target="_blank" rel="noopener"}
+
+<!--[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/code36u4r60/)](https://www.facebook.com/code36u4r60/){:target="_blank"}-->
 
 <!--
 **code36u4r60/code36u4r60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
