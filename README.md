@@ -32,6 +32,12 @@ I don't like to repeat the same things over and over.😧
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/code36u4r60/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/code36u4r60/)
 
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/code36u4r60.png" alt="TryHackMe">
+
+---
+
 <!-- Cards -->
 ### GitHub Stats
 
