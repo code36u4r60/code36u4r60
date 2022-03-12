@@ -34,7 +34,7 @@ I don't like to repeat the same things over and over.😧
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/code36u4r60.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/code36u4r60.png?1" alt="TryHackMe">
 
 ---
 
