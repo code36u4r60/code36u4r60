@@ -42,10 +42,10 @@ I don't like to repeat the same things over and over.😧
 ### GitHub Stats
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=code36u4r60&count_private=true&show_icons=true&hide_title=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=code36u4r60&count_private=true&show_icons=true&hide_title=true" height="130px"/>
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code36u4r60&layout=compact&hide_title=true" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code36u4r60&layout=compact&hide_title=true" height="130px"/>
   </a>
 </div>
