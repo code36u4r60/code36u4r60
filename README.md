@@ -39,7 +39,7 @@ I don't like to repeat the same things over and over.😧
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=for-the-badge&color=282a36&logo=Kalilinux)&nbsp;
 ![Pop!_OS](https://img.shields.io/badge/-Pop!_OS-05122A?style=for-the-badge&color=282a36&logo=Pop!_OS)&nbsp;
 ![Zorin](https://img.shields.io/badge/-Zorin-05122A?style=for-the-badge&color=282a36&logo=Zorin)&nbsp;
-![Microsoft](https://img.shields.io/badge/-Microsoft-05122A?style=for-the-badge&color=282a36&logo=Microsoft)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&color=282a36&logo=Windows)&nbsp;
 ![macOS](https://img.shields.io/badge/-mac%20OS-05122A?style=for-the-badge&color=282a36&logo=macOS)&nbsp;
 
 ![C](https://img.shields.io/badge/-%20-05122A?style=for-the-badge&color=282a36&logo=C)&nbsp;
