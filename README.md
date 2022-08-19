@@ -15,7 +15,7 @@ I don't like to repeat the same things over and over.😧
 ![reactnative](https://img.shields.io/badge/-React%20Native-44dafb?logo=React&logoColor=white&style=for-the-badge)
 --> 
 
-## About me:
+## About me
 
 - 🔭 I'm currently unemployed
 - 🎓 I'm in the 3rd year of Electrotechnical and Computer Engineering
