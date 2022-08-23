@@ -1,11 +1,17 @@
 <!-- About me -->
 ## :bowtie: Hi, I'm Eduardo Queirós. Nice to meet you. 👋 :smile:
 
-I'm an eternal student of Computer Science and big Technology enthusiast.
+I'm  🎓 graduatein Electrical and Computer Engineering and self-taught in web technologies. 
 
-I ❤️ solve problems. 
+I am currently completing training in Node.js and React at Rocketseat.
 
-I don't like to repeat the same things over and over.😧
+ Academically, the next steps:
+ - Master in Electrical Engineering
+ - Master in Computer Engineering and Computer and Web Technology, with a focus on Cyber Security and Data Science. 
+
+Professionally, my closest goal is to evolve professionally as a web developer. <br>
+In the future, I hope to be able to work on something that can combine web development with data science and cybersecurity.
+
 
 <!--
 ## :books: Learning 
@@ -14,15 +20,6 @@ I don't like to repeat the same things over and over.😧
 ![react](https://img.shields.io/badge/-React-44dafb?logo=React&logoColor=white&style=for-the-badge)
 ![reactnative](https://img.shields.io/badge/-React%20Native-44dafb?logo=React&logoColor=white&style=for-the-badge)
 --> 
-
-## About me
-
-- 🔭 I'm currently unemployed
-- 🎓 I'm in the 3rd year of Electrotechnical and Computer Engineering
-- 🌱 Outside University, I am currently learning JavaScript, TypeScript, ReactJS and NodeJS
-- 👐 I try to collaborate on social impact projects
-- 🤔 I'm looking for help with the development of my skills
-- 💬 Ask me about anything, but know that I am passionate about technology
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/code36u4r60)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoqueiros/)
