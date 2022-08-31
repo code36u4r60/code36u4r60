@@ -1,7 +1,7 @@
 <!-- About me -->
 ## :bowtie: Hi, I'm Eduardo Queirós. Nice to meet you. 👋 :smile:
 
-I'm  🎓 graduatein Electrical and Computer Engineering and self-taught in web technologies. 
+I'm a graduate of Electrical and Computer Engineering and self-taught in web technologies. 
 
 I am currently completing training in Node.js and React at Rocketseat.
 
@@ -9,7 +9,7 @@ I am currently completing training in Node.js and React at Rocketseat.
  - Master in Electrical Engineering
  - Master in Computer Engineering and Computer and Web Technology, with a focus on Cyber Security and Data Science. 
 
-Professionally, my closest goal is to evolve professionally as a web developer. <br>
+Professionally, my closest goal is to evolve as a web developer. <br>
 In the future, I hope to be able to work on something that can combine web development with data science and cybersecurity.
 
 
