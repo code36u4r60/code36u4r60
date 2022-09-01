@@ -82,9 +82,11 @@ In the future, I hope to be able to work on something that can combine web devel
 <!--Redis-->
 <!--Redux-->
 
+<!--
 ## GitHub Analytics
 
 <div align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=code36u4r60&count_private=true&show_icons=true&hide_title=true&theme=calm" height="130px"/>
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code36u4r60&layout=compact&hide_title=true&theme=calm" height="130px"/>
 </div>
+-->
