@@ -6,8 +6,8 @@ I have a degree in Electrical and Computer Engineering. In my extra academic lea
 I am currently completing training in Node.js and React at Rocketseat.
 
 Academically, my short-term goal is to finish:
-- Master in Electrical and Computing Engineering, specialization in Telematics
-- Master in Informatics Engineering and Web Technology.
+- Master's Degree in Electrical and Computing Engineering, specialization in Telematics
+- Master's Degree in Informatics Engineering and Web Technology.
 
 Professionally, my closest goal is to evolve as a web developer.
 
