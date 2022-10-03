@@ -24,8 +24,6 @@ In the future, I hope to be able to work on something that can combine web devel
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/code36u4r60)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoqueiros/)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/code36u4r60/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/code36u4r60/)
 
 <div align="left">
 <img  src="https://tryhackme-badges.s3.amazonaws.com/code36u4r60.png?1" alt="TryHackMe">
